@@ -1,0 +1,112 @@
+/*
+body {
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+header {    
+    min-height:300px;
+    padding: 100px 0;
+    color: #ffffff;
+    text-shadow: 1px 1px 0 #000000;
+}
+header h1 {
+    margin: 100px 0 10px;
+    font-family: 'Open Sans', 'sans-serif';
+
+}
+header a {
+    color: #000000;
+    text-shadow: none;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:bold;  
+}
+*/
+.btn-custom {
+    background: #fc0;
+    color: #5E2500;
+    padding: 10px 20px;
+    box-shadow: 0 3px 0 #f93;
+    text-transform: uppercase;	
+}
+
+#offer {
+    padding: 100px 0;
+}
+
+
+
+#description {
+    background: #F1F5F7;
+    padding: 100px 0;
+}
+
+footer {
+    padding: 50px 0;
+    background: #333333;
+    color: #ffffff;
+}
+
+.carousel-caption {
+    height:100%;
+    top: 33%;
+}
+
+
+
+.imgmargin{
+    margin: 10px;
+}
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.naglowek{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.panel-ster{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+a.panel-ster{
+    padding: 40px;
+}
+
+/** page structure **/
+#strona {
+  display: block;
+  width: 950px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#content {
+  display: block;
+  width: 100%;
+  background: #fff;
+  padding: 25px 20px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
